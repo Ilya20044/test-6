@@ -43,7 +43,8 @@
 
 .icon__eyes{
     top: 63px;
-    left:115px ;
+    /* left:115px ; */
+    left:100px ;
     position: absolute;
 }
 
